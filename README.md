@@ -1,8 +1,7 @@
----
-description: Documentações para a equipe de desenvolvimento e inovação.
----
-
 # B2B
 
+---
+
+![](http://developers.connectparts.com.br/imagens/MCIQuadro.jpeg)
 
 
